@@ -1,2 +1,3 @@
 # wild-project
-Learn
+
+How to install this project ?
